@@ -490,3 +490,16 @@ on demand instances
 ### A business may be required to operate its workload exclusively in its on-premises data center due to performance and regulatory limitations. Which Amazon Web Services (AWS) services or resources should the business utilize? (Select two.)
 - aws outpost
 - aws snowball edge
+
+### Which component of the AWS architecture permits global computing and storage deployment?
+region
+
+### Which service enables users to store data in the Amazon Web Services cloud?
+
+- A. Amazon EFS **Most Voted**
+- B. Amazon Redshift
+- C. Amazon RDS
+- D. Amazon VPC
+
+### What is AWS Storage Gateway's purpose?
+It connects on-premises data storage to the AWS Cloud. ( It transports petabytes of data to and from AWS.- is incorrect )
