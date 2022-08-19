@@ -1,4 +1,4 @@
-## 6 pillar of aws well-architected framework -
+## 6 pillar of aws well-architected framework -  ( aws dependability piller is same as aws reliability piller )
 https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework/
 
 ## Support plans 
