@@ -156,8 +156,13 @@ APN Consulting Partners are professional services firms that help customers desi
 
 AWS Control Tower is a service that enables you to enforce and manage governance rules for security, operations, and compliance at scale across all your organizations and accounts in the AWS Cloud.
 
+## Amazon appstream
 
+Amazon AppStream 2.0 is a fully managed application streaming service that provides users with instant access to their desktop applications from anywhere.
 
+## Stateful vs stateless application
+
+In contrast, a stateful application saves data about each client session and uses that data the next time the client makes a request. When an application is stateless, the server does not store any state about the client session. Instead, the session data is stored on the client and passed to the server as needed.
 
 
 
@@ -291,6 +296,10 @@ cloudtrail
 ### Which AWS Cloud best practice makes advantage of cloud computing's flexibility and agility?
 - Dynamically and predictively scale to meet usage demands
 
+### advantage of aws computing 
+- agility
+- elasticity
+
 ### A business must keep its data near to its core consumers. which cloud advantage satisfies the requirements?
 - global footprint ( The AWS Global Cloud Infrastructure is the most secure, extensive, and reliable cloud platform, offering over 200 fully featured services from data centers globally. )
 
@@ -301,3 +310,59 @@ cloudtrail
 
 AWS Control Tower
 
+### A business wishes to downsize its infrastructure in order to save money. At what stages should a business downsize? (Select two.)
+
+- Rightsize before a migration occurs to the cloud. 
+- Rightsize continuously after the cloud onboarding process.
+
+### Which Amazon EC2 pricing model is dynamically adjusted in response to EC2 instance availability and demand?
+- Spot instances
+- In the new model, the Spot prices are more predictable, updated less frequently, and are determined by supply and demand for Amazon EC2 spare capacity, not bid prices.
+
+### Which choices do users have when contacting AWS Support? (Select two.)
+
+- Use live chat functionality. 
+- Call the customer service phone number.
+
+### A business must track and anticipate AWS expenditures and use. Additionally, the organization must configure event-driven alert alerts that are triggered when expenditure limitations are exceeded. Which Amazon Web Services (AWS) offering or technology should the business employ to achieve these requirements?
+
+- aws cloudwatch ( not budget, key - event-driven alert ).
+
+### IT functions which aws do -
+
+- backing up databases
+- installing operating system ( does not configure os firewall )
+
+### Which AWS technologies aid in cost estimation? (Select three.)
+
+- Cost allocation tags
+- AWS Simple Monthly Calculator
+- AWS Total Cost of Ownership (TCO) Calculator 
+- ( no tool exists named cost estimator )
+
+### Which services are available for application deployment?
+
+- aws beanstalk
+- aws opsworks ( managed chef and puppet )
+
+### A business needs handle a huge volume of data from social network accounts using high-throughput graphical queries. Which AWS service will assist the business in developing a cloud architecture that satisfies these criteria?
+
+- Amazon Neptune
+
+### Graphical query - Neptune
+
+### On an Amazon EC2 instance, a batch job takes 5 hours to complete. Monthly, the quantity of data to be processed doubles, and the time required to process it is proportionate. What is the optimal cloud architecture for meeting this escalating demand?
+
+Distribute the application across multiple EC2 instances and run the workload in parallel.
+
+### The continue lowering in aws cloud price is a result of the following -
+economies of scale
+
+### A business wishes to deliver managed Windows virtual desktops and programs through secure network connections to its distant workers. Which AWS services does the business have access to in order to achieve these requirements? (Select two.)
+- Amazon AppStream 2.0
+- Amazon WorkSpaces
+
+### Which AWS services are globally specified rather than regionally defined? (Select two.)
+
+- route53
+- cloudfront
