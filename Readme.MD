@@ -190,9 +190,15 @@ In contrast, a stateful application saves data about each client session and use
 - Contains the most frequent & common questions and request
 
 
+## aws personal health dashboard
+
+- gives information about planned events that are now occuring or may occur in future  and may impact an AWS account.
+- AWS Personal Health Dashboard provides alerts and guidance for AWS events that might affect your environment.
 
 
+## aws service health dashboard
 
+- shows the general status of aws services
 
 ---
 
@@ -326,6 +332,7 @@ cloudtrail
 ### what are the immidiate advantage of aws cloud computing 
 - increased agility
 - capital expenses are replaced by variable cost
+- ability to focus on revenue generating activities
 
 ### economical advantage of using aws?
 - reduced total cost of ownership ( TCO )
@@ -441,3 +448,16 @@ reliability
 ### AWS to lower its total cost of ownership by 
 minimizing capital expenditure
 
+### Which principal are used while architecting apps for aws cloud reliability?
+- design for automated failover recovery
+- use multiple az
+
+### Which AWS service or functionality allows customers to encrypt data stored in Amazon S3 during the storage process?
+
+Server-side encryption or client side encryption ???
+
+### aws provides which of the following security related service?
+
+- data encryption
+- aws trusted advisor security check
+- ( not automted penetration testing and aws does not provide mfa with physical token, it provides with solf token )
