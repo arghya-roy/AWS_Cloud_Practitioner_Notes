@@ -492,7 +492,7 @@ on demand instances
 - aws snowball edge
 
 ### Which component of the AWS architecture permits global computing and storage deployment?
-region
+region or az ??
 
 ### Which service enables users to store data in the Amazon Web Services cloud?
 
