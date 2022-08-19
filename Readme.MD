@@ -102,6 +102,14 @@ infrastructure
 
 AWS Artifact provides on-demand downloads of AWS security and compliance documents, such as AWS ISO certifications, **Payment Card Industry (PCI), and Service Organization Control (SOC) reports.** You can submit the security and compliance documents (also known as audit artifacts) to your auditors or regulators to demonstrate the security and compliance of the AWS infrastructure and services that you use. You can also use these documents as guidelines to evaluate your own cloud architecture and assess the effectiveness of your company's internal controls. AWS Artifact provides documents about AWS only. AWS customers are responsible for developing or obtaining documents that demonstrate the security and compliance of their companies. For more information, see Shared Responsibility Model.
 
+## AWS Device farm
+
+AWS Device Farm is an application testing service that lets you improve the quality of your web and mobile apps by testing them across an extensive range of desktop browsers and real mobile devices; without having to provision and manage any testing infrastructure.
+
+## AWS ground station?
+
+AWS Ground Station is a fully managed service that lets you control satellite communications, process data, and scale your operations without having to worry about building or managing your own ground station infrastructure. Satellites are used for a wide variety of use cases, including weather forecasting, surface imaging, communications, and video broadcasts. Ground stations form the core of global satellite networks. 
+
 
 ## what is AWS quickstart?
 
@@ -179,7 +187,10 @@ APN Consulting Partners are professional services firms that help customers desi
 
 ## AWS Control tower
 
-AWS Control Tower is a service that enables you to enforce and manage governance rules for security, operations, and compliance at scale across all your organizations and accounts in the AWS Cloud.
+- AWS Control Tower is a service that enables you to enforce and manage governance rules for security, operations, and compliance at scale across all your organizations and accounts in the AWS Cloud.
+- It automatically sets up AWS Organizations to organize accounts and implement 
+SCPs (Service Control Policies)
+
 
 ## Amazon appstream
 
@@ -574,3 +585,31 @@ cost explorer ( not budget )
 
 ### A business has a 500 TB image repository that has to be moved to Amazon Web Services (AWS) for processing. Which AWS service is the most cost-effective way to import this data?
 snowball ( s3 will be used to store not import )
+
+### email - developer support
+### phone - business support
+
+### Which AWS Support package includes access to architectural and operational assessments, as well as 24/7 email, online chat, and phone support from Senior Cloud Support Engineers?
+Enterprise ( because - architectural and operational assessments )
+
+### A major corporation has a workload that demands on-premises hardware. The organization want to continue using the same management and control plane services as it does on AWS. Which Amazon Web Services (AWS) offering should the business employ to achieve these requirements?
+
+AWS outpost
+
+### Which of the following is not a recommended approach for IAM user management? (Select two.)
+- Require IAM users to store their passwords in raw text
+- Disable multi-factor authentication (MFA) for IAM users
+
+### identify illegal and harmfl activities - 
+guardduty
+
+### How can an AWS customer with an AWS Basic Support package get AWS technical support?
+aws discussion forum ( trusted advisor is not right )
+
+### What can be utilized to automate and manage AWS setups that are safe, well-architected, and multi-account?
+AWS control tower
+
+### GIve 1 hour goal response time - business
+
+### 
+
