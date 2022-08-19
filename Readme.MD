@@ -57,6 +57,26 @@ You have evidence that AWS resources are used to distribute software that was kn
 - The AWS Trust & Safety team will use the information that you provide in this form to investigate and attempt to resolve the incident you have reported. We might share your information, if it is necessary for the investigation of your report.
 Note: AWS Support can't assist with reports of abuse or questions about notifications from the AWS Trust & Safety team. If you have questions for the AWS Trust & Safety team, reply directly to their email.
 
+
+## AWS local zone
+- Places AWS compute, storage, database, and other selected AWS services closer to end users to run latency-sensitive applications
+- Extend your VPC to more locations – “Extension of an AWS Region”
+- Compatible with EC2, RDS, ECS, EBS, ElastiCache, Direct Connect … 
+- Example:
+    - AWS Region: N. Virginia (us-east-1)
+    - AWS Local Zones: Boston, Chicago, Dallas, Houston, Miami, …
+
+## AWS WaveLength
+- WaveLength Zones are infrastructure deployments embedded within the telecommunications providers’ datacenters at the edge of the 5G networks
+- Brings AWS services to the edge of the 5G networks
+- Example: EC2, EBS, VPC…
+- Ultra-low latency applications through 5G networks
+- Traffic doesn’t leave the Communication Service Provider’s (CSP) network
+- High-bandwidth and secure connection to the parent AWS Region
+- No additional charges or service agreements
+- Use cases: Smart Cities, ML-assisted diagnostics, Connected Vehicles, Interactive Live Video Streams, AR/VR, Real-time Gaming, 
+
+
 ## What is an outpost in AWS?
 - An Outpost is a pool of AWS compute and storage capacity deployed at a customer site. AWS operates, monitors, and manages this capacity as part of an AWS Region. You can create subnets on your Outpost and specify them when you create AWS resources such as EC2 instances, EBS volumes, ECS clusters, and RDS instances.
 
@@ -164,7 +184,10 @@ Amazon AppStream 2.0 is a fully managed application streaming service that provi
 
 In contrast, a stateful application saves data about each client session and uses that data the next time the client makes a request. When an application is stateless, the server does not store any state about the client session. Instead, the session data is stored on the client and passed to the server as needed.
 
+## AWS Knowledge Center
 
+- advised to customer about frequently asked billing questions.
+- Contains the most frequent & common questions and request
 
 
 
@@ -300,6 +323,15 @@ cloudtrail
 - agility
 - elasticity
 
+### what are the immidiate advantage of aws cloud computing 
+- increased agility
+- capital expenses are replaced by variable cost
+
+### economical advantage of using aws?
+- reduced total cost of ownership ( TCO )
+- reduced operational expenditure ( opex )
+- ( credit line for startup is not currect )
+
 ### A business must keep its data near to its core consumers. which cloud advantage satisfies the requirements?
 - global footprint ( The AWS Global Cloud Infrastructure is the most secure, extensive, and reliable cloud platform, offering over 200 fully featured services from data centers globally. )
 
@@ -366,3 +398,46 @@ economies of scale
 
 - route53
 - cloudfront
+
+### A business has specified the Amazon Web Services (AWS) resources it requires for a new application. The business must determine the expenses associated with operating the application on AWS. What actions should the business take to comply with this stipulation?
+
+Use the AWS Pricing Calculator to generate an approximate dollar amount.
+
+### generate warning based on monthly bill estimate
+cloudwatch.
+
+### Which AWS service or functionality is by default highly available?
+
+aurora
+
+### Which resource is the MOST EFFECTIVE for keeping current on AWS security announcements?
+AWS Security Bulletins
+
+### anticipate of cost while application already running - aws cost explorer / aws cpst and usage report/
+### anticipate of cost before deploing application - pricing calculator
+
+### A big firm often has a single Amazon Web Services (AWS) account. What are the benefits of repurposing a single AWS account to create additional AWS accounts? (Select two.)
+- It allows for administrative isolation between different workloads.
+- Having multiple accounts reduces the risks associated with malicious activity targeted at a single account. 
+
+### WAF can be associated with 
+      - API  gateway
+      - cloudfront
+      - ALB
+      
+### Which AWS services are available for file storage? (Select two.)
+- s3
+- EBS
+- ( Storage gateway is not a storage it is a path bw on prem to cloud )
+
+### A business uses an Amazon EC2 Auto Scaling policy in conjunction with an Application Load Balancer to restore sick apps running on Amazon EC2 instances automatically. This activity pertains to which pillar of the AWS Well-Architected Framework?
+
+reliability
+
+### Global infasturecture = global footprint = global reach
+
+### Steady state = a state or condition of a system or process that does not change in time = reserved instance
+
+### AWS to lower its total cost of ownership by 
+minimizing capital expenditure
+
