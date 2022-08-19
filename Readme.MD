@@ -481,8 +481,7 @@ Server-side encryption
 
 ### in the case of an environmental disruption, a company needs to make sure its infrastructure is structured for fault tolerance and business continuity.Which parts of the AWS architecture should the organization replicate?
 
-az or region ??
-
+az 
 ### A corporation anticipates a brief increase in internet traffic for their application. The program cannot be interrupted during the traffic spike. In addition, the organization must reduce costs while increasing flexibility. To achieve these needs, which Amazon EC2 instance type should the organization use?
 
 on demand instances 
