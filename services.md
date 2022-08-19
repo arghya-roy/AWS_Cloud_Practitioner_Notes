@@ -131,6 +131,17 @@ AWS AppSync is a serverless GraphQL and Pub/Sub API service that simplifies buil
 
 The AWS Partner Network (APN) is the global partner program for technology and consulting businesses who leverage Amazon Web Services (AWS) to build solutions and services for customers. The APN helps companies build, market, and sell their AWS offerings by providing valuable business, technical, and marketing support.
 
+## AWS Professional Services & Partner Network
+- The AWS Professional Services organization is a global team of experts
+- They work alongside your team and a chosen member of the APN
+- APN = AWS Partner Network
+- **APN Technology Partners**: providing hardware, connectivity, and software
+- **APN Consulting Partners:** professional services firm to help build on AWS
+- **APN Training Partners**: find who can help you learn AWS 
+- **AWS Competency Program:** AWS Competencies are granted to APN Partners who have demonstrated technical proficiency and proven customer success in specialized solution areas.
+• **AWS Navigate Program:** help Partners become better Partners
+
+
 ## Who are AWS Technology Partners?
 
 APN Technology Partners provide software solutions that are either hosted on, or integrated with, the AWS platform. Technology Partners include Independent Software Vendors (ISVs), SaaS, PaaS, Developer Tools, Management, and Security Vendors.
