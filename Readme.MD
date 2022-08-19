@@ -150,6 +150,8 @@ APN Consulting Partners are professional services firms that help customers desi
 - Network infasturecture of data center
 - The cost of purchasing and installing server hardware in the on-premises data.
 - The cost of administering the infrastructure, including operating system and software installations, patches, backups, and recovering from failures.
+- Power consumption of the data center
+- Labor costs to replace old servers
 
 
 
@@ -557,3 +559,13 @@ Request and wait for approval from the customer's internal security team, and th
 
 ### What AWS feature relates to a customer's flexibility to scale up and down applications to meet changeable demand?
 elasticity
+
+### Which feature of cloud computing can AWS exhibit via its capacity to provide reduced variable prices as a consequence of big purchase volumes?
+Economies of scale
+
+### unauthorised purposes = Intrusion attempts: = aws abuse team / aws trust and safety team
+
+### Which AWS service should a business use to check the compliance of AWS resource settings on a `continual basis`?
+AWS config
+
+### 
