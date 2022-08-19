@@ -454,10 +454,35 @@ minimizing capital expenditure
 
 ### Which AWS service or functionality allows customers to encrypt data stored in Amazon S3 during the storage process?
 
-Server-side encryption or client side encryption ???
-
+Server-side encryption
 ### aws provides which of the following security related service?
 
 - data encryption
 - aws trusted advisor security check
 - ( not automted penetration testing and aws does not provide mfa with physical token, it provides with solf token )
+
+### What is raised when a business deploys web server across several aws regions?
+- availability ( not durability )
+
+### Which of the following tasks may be used to improve Amazon EC2 costs? (Select two.)
+
+- Implementing Auto Scaling groups to add and remove instances based on demand. Most Voted
+- Purchasing Reserved Instances. 
+
+### A firm wishes to develop a new line of business application. Which design concepts should be applied in accordance with the AWS Well-Architected Framework? (Select two.)
+- Decouple the AWS Cloud architecture to break up monolithic deployments. 
+- Design elasticity into the AWS Cloud design.
+
+### How do Amazon's massive economies of scale help customers?
+- Periodic price reductions as the result of Amazon's operational efficiencies
+
+### Before transferring an environment to the AWS Cloud, a cloud practitioner must receive AWS compliance reports. How are these reports produced?
+- Contact the AWS Compliance team or Download the reports from AWS Artifact ??
+
+### in the case of an environmental disruption, a company needs to make sure its infrastructure is structured for fault tolerance and business continuity.Which parts of the AWS architecture should the organization replicate?
+
+az or region ??
+
+### A corporation anticipates a brief increase in internet traffic for their application. The program cannot be interrupted during the traffic spike. In addition, the organization must reduce costs while increasing flexibility. To achieve these needs, which Amazon EC2 instance type should the organization use?
+
+on demand instances 
