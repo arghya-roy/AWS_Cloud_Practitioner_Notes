@@ -7,7 +7,7 @@ https://github.com/arghya-roy/AWS_Certified_Solutions_Architect_Associate_notes/
 ## Difference between elasticity and scalability -
 - In sample way we can say that elasticity is a manual process means when you need more you increased service and when you dont need you decrease that. But Scalability is automated process means depending on load your services will be created or deleted automatically.
 - https://stackoverflow.com/questions/9587919/what-is-the-difference-between-scalability-and-elasticity
-
+- **trick** When the question is about scaling then if there is option called elasticity then select elasticity. if there is option called scalability then select scalability. If there are both option elasticity and scalability then choose scalability.
 
 ### Trusted advisor suggests us about 
 - Cost optimization  (unassociated Elastic IP addresses)
@@ -148,6 +148,9 @@ APN Consulting Partners are professional services firms that help customers desi
 - Storage hardware
 - physical server
 - Network infasturecture of data center
+- The cost of purchasing and installing server hardware in the on-premises data.
+- The cost of administering the infrastructure, including operating system and software installations, patches, backups, and recovering from failures.
+
 
 
 ## Tasks that require root user credentials
@@ -503,3 +506,54 @@ region or az ??
 
 ### What is AWS Storage Gateway's purpose?
 It connects on-premises data storage to the AWS Cloud. ( It transports petabytes of data to and from AWS.- is incorrect )
+
+
+### what can most cost effectively cut a rising start-computing up's costs ?
+It provides on demand respources for peak uses
+
+### Best practice for root user
+
+- MFA
+- delete access keys
+
+### Which AWS Support package is the LEAST costly and gives 24-hour access to AWS customer care and communities?
+basic support plan
+
+### Which AWS feature enables a business to use consumption levels across different member accounts?
+Consolidated billing ( not SCP )
+
+### which oppourtunites does aws provide for clients interested in learning about cloud security in an instruction led settings?
+
+- AWS Online Tech Talks
+- AWS Classroom Training
+
+### A business wishes to launch a worldwide commercial application using Amazon Elastic Compute Cloud (Amazon EC2). The deployment solution should be constructed with the `greatest degree` of redundancy and fault tolerance possible. According to this scenario, the following Amazon EC2 instances should be deployed:
+
+- across multiple Availability Zones in two AWS Regions
+
+### Which tool is most suited for integrating the billing of previously distinct AWS accounts?
+Consolidated billing
+
+### enables aws customers to control billing expense allocation
+tagging resources
+
+### The application of a business has a variable start and finish time. what pricing option is most cost effective?
+
+spot instance
+
+### AWS's pay-as-you-go pricing model:
+reduces operational expenditures. ( because cap ex does not exist in cloud )
+
+### A business has optimized its workload by using certain AWS services in order to increase efficiency and minimize costs. Which cost management best practice does this case demonstrate?
+
+Architecture optimization
+
+### Which of the following procedures should a client perform while doing penetration testing on Amazon Web Services (AWS)?
+Request and wait for approval from the customer's internal security team, and then conduct testing.
+
+### A business has chosen to shift its production workloads to the Amazon Web Services (AWS) Cloud. Which activities may assist in lowering operating expenses associated with the migration? (Select two.)
+- Reduce overprovisioned instances.
+- Use managed services.
+
+### What AWS feature relates to a customer's flexibility to scale up and down applications to meet changeable demand?
+elasticity
