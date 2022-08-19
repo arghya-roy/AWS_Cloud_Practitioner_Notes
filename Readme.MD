@@ -16,58 +16,6 @@
 
 
 
-## Tasks that require root user credentials
-
-- **Change your account settings.** This includes the account name, email address, root user password, and root user access keys. Other account settings, such as contact information, payment currency preference, and AWS Regions, don't require root user credentials.
-
-- **Restore IAM user permissions.** If the only IAM administrator accidentally revokes their own permissions, you can sign in as the root user to edit policies and restore those permissions.
-
-- **Activate IAM access to the Billing and Cost Management console.**
-
-- **View certain tax invoices.** An IAM user with the aws-portal:ViewBilling permission can view and download VAT invoices from AWS Europe, but not AWS Inc. or Amazon Internet Services Private Limited (AISPL).
-
-- **Close your AWS account.**
-
-- **Change your AWS Support plan or Cancel your AWS Support plan**. For more information, see IAM for AWS Support.
-
-- **Register as a seller in the Reserved Instance Marketplace.**
-
-- **Configure an Amazon S3 bucket to enable MFA (multi-factor authentication).**
-
-- **Edit or delete an Amazon Simple Storage Service (Amazon S3) bucket policy that includes an invalid virtual private cloud (VPC) ID or VPC endpoint ID.**
-
-- **Sign up for GovCloud.**
-
-## AWS Control tower
-
-- AWS Control Tower is a service that enables you to enforce and manage governance rules for security, operations, and compliance at scale across all your organizations and accounts in the AWS Cloud.
-- It automatically sets up AWS Organizations to organize accounts and implement 
-SCPs (Service Control Policies)
-
-
-## Amazon appstream
-
-Amazon AppStream 2.0 is a fully managed application streaming service that provides users with instant access to their desktop applications from anywhere.
-
-## Stateful vs stateless application
-
-In contrast, a stateful application saves data about each client session and uses that data the next time the client makes a request. When an application is stateless, the server does not store any state about the client session. Instead, the session data is stored on the client and passed to the server as needed.
-
-## AWS Knowledge Center
-
-- advised to customer about frequently asked billing questions.
-- Contains the most frequent & common questions and request
-
-
-## aws personal health dashboard
-
-- gives information about planned events that are now occuring or may occur in future  and may impact an AWS account.
-- AWS Personal Health Dashboard provides alerts and guidance for AWS events that might affect your environment.
-
-
-## aws service health dashboard
-
-- shows the general status of aws services
 
 ---
 
