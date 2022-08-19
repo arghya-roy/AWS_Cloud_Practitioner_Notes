@@ -376,6 +376,7 @@ AWS Control Tower
 
 - backing up databases
 - installing operating system ( does not configure os firewall )
+- patching database software
 
 ### Which AWS technologies aid in cost estimation? (Select three.)
 
@@ -568,4 +569,8 @@ Economies of scale
 ### Which AWS service should a business use to check the compliance of AWS resource settings on a `continual basis`?
 AWS config
 
-### 
+### Which AWS service or feature enables a business to track, monitor, and control its AWS expenses and consumption over time?
+cost explorer ( not budget )
+
+### A business has a 500 TB image repository that has to be moved to Amazon Web Services (AWS) for processing. Which AWS service is the most cost-effective way to import this data?
+snowball ( s3 will be used to store not import )
