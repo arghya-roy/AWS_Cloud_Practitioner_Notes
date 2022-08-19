@@ -485,3 +485,8 @@ az
 ### A corporation anticipates a brief increase in internet traffic for their application. The program cannot be interrupted during the traffic spike. In addition, the organization must reduce costs while increasing flexibility. To achieve these needs, which Amazon EC2 instance type should the organization use?
 
 on demand instances 
+
+
+### A business may be required to operate its workload exclusively in its on-premises data center due to performance and regulatory limitations. Which Amazon Web Services (AWS) services or resources should the business utilize? (Select two.)
+- aws outpost
+- aws snowball edge
