@@ -1,4 +1,5 @@
-
+- TCO is deprecated but still can appear
+- simple monthly calculator is now pricing calculator
 
 ## What charges are included in the comparison of aws and on premiese Total cost of ownership (TCO)?
 
@@ -13,7 +14,10 @@
 - The cost of administering the infrastructure, including operating system and software installations, patches, backups, and recovering from failures.
 - Power consumption of the data center
 - Labor costs to replace old servers
-
+- **SERVER COST**
+- **STORAGE COST**
+- **NETWORK COST**
+- **IT LABOR COST**
 
 
 
