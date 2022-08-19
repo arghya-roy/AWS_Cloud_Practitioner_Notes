@@ -169,6 +169,8 @@ APN Consulting Partners are professional services firms that help customers desi
 
 - **Sign up for GovCloud.**
 
+- **TO SELL RESERVE INSTANCES**
+
 ## AWS Control tower
 
 - AWS Control Tower is a service that enables you to enforce and manage governance rules for security, operations, and compliance at scale across all your organizations and accounts in the AWS Cloud.
