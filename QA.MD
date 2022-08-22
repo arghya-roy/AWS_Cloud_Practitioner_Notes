@@ -166,6 +166,9 @@ cloudtrail
 ### A client wants to develop and construct a new workload on AWS Cloud but lacks the necessary technical skills in AWS-related technologies. Which of the following AWS programs may a client use to accomplish that goal?
 - AWS Partner Network Consulting Partners
 
+### A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house. Which of the following AWS programs can a customer take advantage of to achieve that outcome?
+- AWS Partner Network Consulting Partners
+- 
 ### Which AWS solution enables rapid setup and management of a new multi-account AWS environment?
 
 AWS Control Tower
@@ -200,6 +203,7 @@ AWS Control Tower
 - AWS Simple Monthly Calculator
 - AWS Total Cost of Ownership (TCO) Calculator 
 - ( no tool exists named cost estimator )
+- ( Detailed billing report is not for estamating )
 
 ### Which services are available for application deployment?
 
@@ -416,5 +420,28 @@ AWS control tower
 
 ### GIve 1 hour goal response time - business
 
-### 
+### Which of the following are characteristics of Amazon S3? (Choose two.)
+- An object store
+- An object store
+- s3 is not a global file system.it's a global namespace with DNS compliant names for buckets
 
+
+### Which of the following security-related actions are available at no cost?
+- Accessing forums, blogs, and whitepapers
+
+### Which of the Reserved Instance (RI) pricing models can change the attributes of the RI as long as the exchange results in the creation of RIs of equal or greater value?
+- Convertible RIs
+
+### Which AWS feature will reduce the customer’s total cost of ownership (TCO)?
+
+- Elastic computing
+
+### Which of the following services will automatically scale with an expected increase in web traffic?
+
+- Elastic Load Balancing
+
+### Which AWS services should be used for read/write of constantly changing data? (Choose two.)
+- RDS
+- EFS
+
+### AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you. While the Service Health Dashboard displays the general status of AWS services, Personal Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources.
