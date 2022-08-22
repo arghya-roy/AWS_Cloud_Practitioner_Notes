@@ -445,3 +445,10 @@ AWS control tower
 - EFS
 
 ### AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you. While the Service Health Dashboard displays the general status of AWS services, Personal Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources.
+
+### Which AWS service provides a customized view of the health of specific AWS services that power a customer’s workloads running on AWS?
+
+- AWS Personal Health Dashboard
+
+### Which AWS Cost Management tool allows you to view the most granular data about your AWS bill?
+- cost explorer ( not AWS Cost and Usage report )
