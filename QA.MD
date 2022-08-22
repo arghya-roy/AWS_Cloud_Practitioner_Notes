@@ -18,6 +18,7 @@
 - **STORAGE COST**
 - **NETWORK COST**
 - **IT LABOR COST**
+- **Compute costs**
 
 
 
@@ -401,6 +402,9 @@ snowball ( s3 will be used to store not import )
 ### Which AWS Support package includes access to architectural and operational assessments, as well as 24/7 email, online chat, and phone support from Senior Cloud Support Engineers?
 Enterprise ( because - architectural and operational assessments )
 
+### Which is the minimum AWS Support plan that includes Infrastructure Event Management without additional costs?
+Enterprise
+
 ### A major corporation has a workload that demands on-premises hardware. The organization want to continue using the same management and control plane services as it does on AWS. Which Amazon Web Services (AWS) offering should the business employ to achieve these requirements?
 
 AWS outpost
@@ -452,3 +456,8 @@ AWS control tower
 
 ### Which AWS Cost Management tool allows you to view the most granular data about your AWS bill?
 - cost explorer ( not AWS Cost and Usage report )
+
+### What can users access from AWS Artifact?
+
+- AWS security and compliance documents
+
